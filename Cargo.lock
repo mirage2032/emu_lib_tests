@@ -47,7 +47,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "emu_lib_tests"
+name = "emu_lib_json_tests"
 version = "0.1.0"
 dependencies = [
  "emu_lib",
