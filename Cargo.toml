@@ -1,0 +1,8 @@
+[package]
+name = "emu_lib_tests"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+emu_lib = { git = "https://github.com/mirage2032/rs_emu_lib" }
+include_dir = "0.7.4"
